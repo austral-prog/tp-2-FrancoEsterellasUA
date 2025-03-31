@@ -1,4 +1,4 @@
 def change():
     expense = 23.75
     money = 100
-    print("Vuelto:\n\nPesos:\n76\nCentavos:\n25")
+    print(f"Ingresar gasto:\n23.75\nDinero recibido\n100\nVuelto:\n\nPesos:\n76\nCentavos:\n25")
